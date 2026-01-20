@@ -44,7 +44,7 @@ KVM虚拟，AMD EPYC 7532、DDR4、NVMe SSD阵列、100M带宽、自带一个IPv
 
 KVM虚拟，Intel® Xeon® Platinum 8452Y、DDR5、PCIe 4.0 NVMe SSD阵列、1 IPV4；
 
-电信和联通走联通CUII/AS9929高端网络，移动走自己的CMIN2/AS58807高端网络
+电信和联通走联通 CUII/AS9929 高端网络，移动走 CMIN2/AS58807 高端网络
 
 <table>
     <tbody>
@@ -83,6 +83,94 @@ KVM虚拟，Intel® Xeon® Platinum 8452Y、DDR5、PCIe 4.0 NVMe SSD阵列、1 I
             <td>300M</td>
             <td>$88/年</td>
             <td><strong><a rel="nofollow" href="https://clients.zgovps.com/?cmd=cart&action=add&affid=182&id=31" target="_blank">链接</a></strong></td>
+        </tr>
+    </tbody>
+</table>
+
+## 洛杉矶VPS-优化线路- AMD EPYC 7003 Series
+
+电信和联通走联通CUII/AS9929高端网络，移动走 CMIN2/AS58807高端网络
+
+KVM虚拟，AMD EPYC 7B13/7C13、DDR4内存、NVMe SSD阵列、1 IPV4、原生美国IP
+
+<table>
+    <tbody>
+        <tr>
+            <td><strong>内存</strong></td>
+            <td><strong>CPU</strong></td>
+            <td><strong>NVMe</strong></td>
+            <td><strong>流量</strong></td>
+            <td><strong>带宽</strong></td>
+            <td><strong>价格</strong></td>
+            <td><strong>购买</strong></td>
+        </tr>
+        <tr>
+            <td>1G</td>
+            <td>1核</td>
+            <td>20G</td>
+            <td>600G/月</td>
+            <td>200M</td>
+            <td>$25/年</td>
+            <td><strong><a rel="nofollow" href="https://clients.zgovps.com/?cmd=cart&action=add&affid=182&id=65" target="_blank">链接</a></strong></td>
+        </tr>
+        <tr>
+            <td>2G</td>
+            <td>1核</td>
+            <td>30G</td>
+            <td>1T/月</td>
+            <td>300M</td>
+            <td>$36/年</td>
+            <td><strong><a rel="nofollow" href="https://clients.zgovps.com/?cmd=cart&action=add&affid=182&id=66" target="_blank">链接</a></strong></td>
+        </tr>
+        <tr>
+            <td>3G</td>
+            <td>2核</td>
+            <td>50G</td>
+            <td>2T/月</td>
+            <td>300M</td>
+            <td>$66/年</td>
+            <td><strong><a rel="nofollow" href="https://clients.zgovps.com/?cmd=cart&action=add&affid=182&id=67" target="_blank">链接</a></strong></td>
+        </tr>
+    </tbody>
+</table>
+
+## 洛杉矶VPS（国际线路）
+
+普通国际线路，KVM虚拟，AMD EPYC 7282、DDR4、NVMe SSD阵列、1Gbps带宽、自带一个IPV4
+
+<table>
+    <tbody>
+        <tr>
+            <td><strong>内存</strong></td>
+            <td><strong>CPU</strong></td>
+            <td><strong>NVMe</strong></td>
+            <td><strong>流量</strong></td>
+            <td><strong>价格</strong></td>
+            <td><strong>购买</strong></td>
+        </tr>
+        <tr>
+            <td>1G</td>
+            <td>1核</td>
+            <td>20G</td>
+            <td>2T/月</td>
+            <td>$15/年</td>
+            <td><strong><a rel="nofollow" href="https://clients.zgovps.com/?cmd=cart&action=add&affid=182&id=93" target="_blank">链接</a></strong></td>
+        </tr>
+        <tr>
+            <td>2G</td>
+            <td>2核</td>
+            <td>40G</td>
+            <td>4T/月</td>
+            <td>$25/年</td>
+            <td><strong><a rel="nofollow" href="https://clients.zgovps.com/?cmd=cart&action=add&affid=182&id=94" target="_blank">链接</a></strong></td>
+        </tr>
+        <tr>
+            <td>4G</td>
+            <td>3核</td>
+            <td>60G</td>
+            <td>6T/月</td>
+            <td>$45/年</td>
+            <td><strong><a rel="nofollow" href="https://clients.zgovps.com/?cmd=cart&action=add&affid=182&id=95" target="_blank">链接</a></strong></td>
         </tr>
     </tbody>
 </table>
